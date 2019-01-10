@@ -1,3 +1,3 @@
-#!/usr/bin/python3
+#!/usr/bin/env python3
 
-print("Hello guys by Krones InnovationLabs!")
+print("This is an awesome application by InnovationLabs! Subscribe for more crazy Stuff!")
